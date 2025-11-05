@@ -64,6 +64,7 @@ It analyzes **Sales**, **Customers**, **Products**, and **Stores & Returns** to 
 <img width="1826" height="925" alt="Stores and Returns" src="https://github.com/user-attachments/assets/c1de592f-346a-47ff-8451-5c6e5b293a0a" />
 **Focus:** Store performance and product returns.  
 **Key Insights:**
+
 - Store #13 and #17 achieve the highest sales.
 
 - Hermanos has the highest number of returns (274) → may require quality review or storage policy assessment
@@ -72,4 +73,10 @@ It analyzes **Sales**, **Customers**, **Products**, and **Stores & Returns** to 
 
 - Stores 17 and 13 have the highest returns, likely due to high sales volume, while some stores like Store 12 and 8
   have lower returns despite high sales, indicating better management or higher-quality products.
-
+  
+### RECOMMENDATIONS
+- Increase focus on Bronze customer segment (targeted loyalty campaigns).
+- Enhance production of healthy and low-fat products.
+- Open new stores in higher-income areas.
+- Conducting a performance evaluation for branch operations teams.
+- Review handling of brands with high product returns or revise storage policies
