@@ -44,5 +44,15 @@ It analyzes **Sales**, **Customers**, **Products**, and **Stores & Returns** to 
 
 -Medium-sized families are the highest-spending customer segment,which is a logical behavior reflecting greater consumption of daily food products.
 
+### 🟢 3. Product Analysis Dashboard
+<img width="1819" height="915" alt="Product" src="https://github.com/user-attachments/assets/e1b6f13c-c7c6-449e-8b0f-0f3436db4e22" />
+**Focus:** Product performance and brand profitability. 
+**Key Insights:**
+-Sales increase roughly proportionally with the quantity sold, indicating stable pricing and a consistent product mix and There is no overstock issue
 
-  
+-The brands Hermanos, Tell Tale, and Ebony lead in sales,Their costs are relatively low compared to sales, making these brands among the most profitable.
+
+- Low-fat and recyclable products show strong sales trends.
+
+- There is no strong correlation between product weight and sales volume
+
