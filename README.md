@@ -17,7 +17,6 @@ It analyzes **Sales**, **Customers**, **Products**, and **Stores & Returns** to 
   ### 🟢 1. Sales Overview Dashboard
   <img width="1829" height="921" alt="Sales" src="https://github.com/user-attachments/assets/52f92f4b-e086-4033-bb3f-f608519e101d" />
  **Focus:** Sales performance by time, stores,product,region and occupation.
-   
  **Key Insights:**
   
 - Sales in 1998 were clearly higher than in 1997, indicating a noticeable year-over-year growth.
@@ -35,15 +34,11 @@ It analyzes **Sales**, **Customers**, **Products**, and **Stores & Returns** to 
 **Key Insights:**
 
 - The U.S. market is FoodMart’s primary market, while Canada and Mexico represent secondary markets with potential for future development.
-
 - The positive correlation between income and sales is evident in the U.S. market,while in Mexico, there is high
   purchasing activity despite lower income levels — indicating a strong marketing opportunity for mid-priced product segments.
-
 - Customers with moderate education levels represent the core purchasing segment for FoodMart,reflecting the
   company’s clear focus on targeting the middle-class demographic
-
 - Home-owning customers are generally more financially stable and spend more,making them a key segment worth targeting with dedicated loyalty campaigns
-
 - Medium-sized families are the highest-spending customer segment,which is a logical behavior reflecting greater consumption of daily food products.
 
 ### 🟢 3. Product Analysis Dashboard
