@@ -58,4 +58,14 @@ It analyzes **Sales**, **Customers**, **Products**, and **Stores & Returns** to 
 - Low-fat and recyclable products show strong sales trends.
 
 - There is no strong correlation between product weight and sales volume
+  
+### 🟢 4. Stores & Returns Dashboard
+<img width="1826" height="925" alt="Stores and Returns" src="https://github.com/user-attachments/assets/c1de592f-346a-47ff-8451-5c6e5b293a0a" />
+**Focus:** Store performance and product returns.  
+**Key Insights:**
+- Store #13 and #17 achieve the highest sales.
+- Hermanos has the highest number of returns (274) → may require quality review or storage policy assessment
+- Rice Medly and Wheat Puffs have the highest returns (40 and 37) → these may be perishable or sensitive products,requiring improved storage or packaging.
+- Stores 17 and 13 have the highest returns, likely due to high sales volume, while some stores like Store 12 and 8
+  have lower returns despite high sales, indicating better management or higher-quality products.
 
