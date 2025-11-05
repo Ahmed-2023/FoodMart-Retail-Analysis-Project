@@ -16,7 +16,7 @@ It analyzes **Sales**, **Customers**, **Products**, and **Stores & Returns** to 
 
   ### 🟢 1. Sales Overview Dashboard
   <img width="1829" height="921" alt="Sales" src="https://github.com/user-attachments/assets/52f92f4b-e086-4033-bb3f-f608519e101d" />
-  **Focus:** Sales performance by time, region, and occupation.  
+ **Focus:** Sales performance by time, region, and occupation.  
  **Key Insights:**
 - Sales show steady growth from 1997 to 1998.
 - Top regions: *North West* and *Mexico Central*.
