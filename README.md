@@ -34,25 +34,27 @@ It analyzes **Sales**, **Customers**, **Products**, and **Stores & Returns** to 
 
 **Key Insights:**
 
--The U.S. market is FoodMart’s primary market, while Canada and Mexico represent secondary markets with potential for future development.
+- The U.S. market is FoodMart’s primary market, while Canada and Mexico represent secondary markets with potential for future development.
 
--The positive correlation between income and sales is evident in the U.S. market,while in Mexico, there is high
+- The positive correlation between income and sales is evident in the U.S. market,while in Mexico, there is high
   purchasing activity despite lower income levels — indicating a strong marketing opportunity for mid-priced product segments.
 
--Customers with moderate education levels represent the core purchasing segment for FoodMart,reflecting the
+- Customers with moderate education levels represent the core purchasing segment for FoodMart,reflecting the
   company’s clear focus on targeting the middle-class demographic
 
--Home-owning customers are generally more financially stable and spend more,making them a key segment worth targeting with dedicated loyalty campaigns
+- Home-owning customers are generally more financially stable and spend more,making them a key segment worth targeting with dedicated loyalty campaigns
 
--Medium-sized families are the highest-spending customer segment,which is a logical behavior reflecting greater consumption of daily food products.
+- Medium-sized families are the highest-spending customer segment,which is a logical behavior reflecting greater consumption of daily food products.
 
 ### 🟢 3. Product Analysis Dashboard
 <img width="1819" height="915" alt="Product" src="https://github.com/user-attachments/assets/e1b6f13c-c7c6-449e-8b0f-0f3436db4e22" />
-**Focus:** Product performance and brand profitability. 
-**Key Insights:**
--Sales increase roughly proportionally with the quantity sold, indicating stable pricing and a consistent product mix and There is no overstock issue
+**Focus:** Product performance and brand profitability.
 
--The brands Hermanos, Tell Tale, and Ebony lead in sales,Their costs are relatively low compared to sales, making these brands among the most profitable.
+**Key Insights:**
+
+- Sales increase roughly proportionally with the quantity sold, indicating stable pricing and a consistent product mix and There is no overstock issue
+
+- The brands Hermanos, Tell Tale, and Ebony lead in sales,Their costs are relatively low compared to sales, making these brands among the most profitable.
 
 - Low-fat and recyclable products show strong sales trends.
 
