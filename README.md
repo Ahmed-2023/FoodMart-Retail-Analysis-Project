@@ -64,8 +64,11 @@ It analyzes **Sales**, **Customers**, **Products**, and **Stores & Returns** to 
 **Focus:** Store performance and product returns.  
 **Key Insights:**
 - Store #13 and #17 achieve the highest sales.
+
 - Hermanos has the highest number of returns (274) → may require quality review or storage policy assessment
+
 - Rice Medly and Wheat Puffs have the highest returns (40 and 37) → these may be perishable or sensitive products,requiring improved storage or packaging.
+
 - Stores 17 and 13 have the highest returns, likely due to high sales volume, while some stores like Store 12 and 8
   have lower returns despite high sales, indicating better management or higher-quality products.
 
