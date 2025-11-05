@@ -37,36 +37,28 @@ It analyzes **Sales**, **Customers**, **Products**, and **Stores & Returns** to 
 - The positive correlation between income and sales is evident in the U.S. market,while in Mexico, there is high
   purchasing activity despite lower income levels — indicating a strong marketing opportunity for mid-priced product segments.
 - Customers with moderate education levels represent the core purchasing segment for FoodMart,reflecting the
-  company’s clear focus on targeting the middle-class demographic
-- Home-owning customers are generally more financially stable and spend more,making them a key segment worth targeting with dedicated loyalty campaigns
+  company’s clear focus on targeting the middle-class demographic.
+- Home-owning customers are generally more financially stable and spend more,making them a key segment worth targeting with dedicated loyalty campaigns.
 - Medium-sized families are the highest-spending customer segment,which is a logical behavior reflecting greater consumption of daily food products.
 
 ### 🟢 3. Product Analysis Dashboard
 <img width="1819" height="915" alt="Product" src="https://github.com/user-attachments/assets/e1b6f13c-c7c6-449e-8b0f-0f3436db4e22" />
 **Focus:** Product performance and brand profitability.
-
 **Key Insights:**
 
-- Sales increase roughly proportionally with the quantity sold, indicating stable pricing and a consistent product mix and There is no overstock issue
-
+- Sales increase roughly proportionally with the quantity sold, indicating stable pricing and a consistent product mix and There is no overstock issue.
 - The brands Hermanos, Tell Tale, and Ebony lead in sales,Their costs are relatively low compared to sales, making these brands among the most profitable.
-
 - Low-fat and recyclable products show strong sales trends.
-
-- There is no strong correlation between product weight and sales volume
+- There is no strong correlation between product weight and sales volume.
   
 ### 🟢 4. Stores & Returns Dashboard
 <img width="1826" height="925" alt="Stores and Returns" src="https://github.com/user-attachments/assets/c1de592f-346a-47ff-8451-5c6e5b293a0a" />
 **Focus:** Store performance and product returns. 
-
 **Key Insights:**
 
 - Store #13 and #17 achieve the highest sales.
-
-- Hermanos has the highest number of returns (274) → may require quality review or storage policy assessment
-
+- Hermanos has the highest number of returns (274) → may require quality review or storage policy assessment.
 - Rice Medly and Wheat Puffs have the highest returns (40 and 37) → these may be perishable or sensitive products,requiring improved storage or packaging.
-
 - Stores 17 and 13 have the highest returns, likely due to high sales volume, while some stores like Store 12 and 8
   have lower returns despite high sales, indicating better management or higher-quality products.
   
