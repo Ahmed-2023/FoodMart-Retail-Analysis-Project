@@ -32,6 +32,7 @@ It analyzes **Sales**, **Customers**, **Products**, and **Stores & Returns** to 
 <img width="1828" height="910" alt="Customer" src="https://github.com/user-attachments/assets/00109720-1cbf-4da9-a305-677f9150933b" />
 
 **Focus:** Demographics vs Sales Behavior.
+
 **Key Insights:**
 
 - The U.S. market is FoodMart’s primary market, while Canada and Mexico represent secondary markets with potential for future development.
