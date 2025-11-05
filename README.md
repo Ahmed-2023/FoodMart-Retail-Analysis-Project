@@ -16,9 +16,13 @@ It analyzes **Sales**, **Customers**, **Products**, and **Stores & Returns** to 
 
   ### 🟢 1. Sales Overview Dashboard
   <img width="1829" height="921" alt="Sales" src="https://github.com/user-attachments/assets/52f92f4b-e086-4033-bb3f-f608519e101d" />
- **Focus:** Sales performance by time, region, and occupation.  
+ **Focus:** Sales performance by time, stores,product,region and occupation.  
  **Key Insights:**
-- Sales show steady growth from 1997 to 1998.
+- Sales in 1998 were clearly higher than in 1997, indicating a noticeable year-over-year growth.
+   The fourth quarter (Q4) recorded the highest sales each year, showing clear seasonality in sales, possibly due to holidays or
+   festive periods.
+- The performance of the stores is uneven.
+- Most of the Top 10 products belong to the category of everyday food and beverages
 - Top regions: *North West* and *Mexico Central*.
 - Professions like *Professionals* and *Skilled Manual* drive the most sales.
 
