@@ -6,10 +6,9 @@ It analyzes **Sales**, **Customers**, **Products**, and **Stores & Returns** to 
 
 ## 🧰 Tools & Technologies
 - Excel
-- PowerQuery
-- PowerPivot
+- PowerQuery for Data Cleaning & Transformation
+- PowerPivot for Modeling
 - PivotTables
-- Data Cleaning & Transformation
 - DAX for calculated measures
 
   ## Dashboards OverVeiw
