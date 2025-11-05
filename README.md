@@ -45,6 +45,7 @@ It analyzes **Sales**, **Customers**, **Products**, and **Stores & Returns** to 
 ### 🟢 3. Product Analysis Dashboard
 <img width="1819" height="915" alt="Product" src="https://github.com/user-attachments/assets/e1b6f13c-c7c6-449e-8b0f-0f3436db4e22" />
 **Focus:** Product performance and brand profitability.
+
 **Key Insights:**
 
 - Sales increase roughly proportionally with the quantity sold, indicating stable pricing and a consistent product mix and There is no overstock issue.
@@ -55,6 +56,7 @@ It analyzes **Sales**, **Customers**, **Products**, and **Stores & Returns** to 
 ### 🟢 4. Stores & Returns Dashboard
 <img width="1826" height="925" alt="Stores and Returns" src="https://github.com/user-attachments/assets/c1de592f-346a-47ff-8451-5c6e5b293a0a" />
 **Focus:** Store performance and product returns. 
+
 **Key Insights:**
 
 - Store #13 and #17 achieve the highest sales.
